@@ -1,0 +1,34 @@
+{
+  "search_metadata": {
+    "id": "mock_search_12345",
+    "status": "Success",
+    "engine": "google"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Germany tourist visa required documents checklist site:diplo.de"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Checklist for a Schengen Visa - Tourist Visit - Germany Visa",
+      "link": "https://india.diplo.de/in-en/service/-/1801828",
+      "snippet": "Checklist for a Schengen Visa - Tourist. Documents required: Valid passport, 2 biometric photographs, travel health insurance with min 30,000 EUR coverage.",
+      "displayed_link": "https://india.diplo.de › in-en › service"
+    },
+    {
+      "position": 2,
+      "title": "Visa Application Requirements - German Missions in India",
+      "link": "https://india.diplo.de/in-en/service/visa-requirements",
+      "snippet": "Proof of financial sufficiency: Personal bank statements from the last 3 months stamped by the bank. For employees: Employment contract and approved leave letter.",
+      "displayed_link": "https://india.diplo.de › in-en › service › visa-requirements"
+    },
+    {
+      "position": 3,
+      "title": "Schengen Visa Info - Germany Tourism Guide",
+      "link": "https://schengenvisainfo.com/germany-visa/",
+      "snippet": "General guide on applying for German Schengen visas from abroad.",
+      "displayed_link": "https://schengenvisainfo.com › germany-visa"
+    }
+  ]
+}
